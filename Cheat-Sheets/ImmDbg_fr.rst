@@ -48,7 +48,7 @@ Liste de raccourcis utiles
 | Alt + F9      | Exécute jusqu'à la prochaine instruction issue du code    |
 |               | écrit par le programmeur.                                 |
 +---------------+-----------------------------------------------------------+
-|               |                                                           |
+| CTRL + F2     | Redémarrage le programme.                                 |
 +---------------+-----------------------------------------------------------+
 
 Références
