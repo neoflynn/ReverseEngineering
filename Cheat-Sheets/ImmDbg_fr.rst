@@ -12,7 +12,7 @@ Liste de raccourcis utiles
 +---------------+-----------------------------------------------------------+
 | SPACE         | Modifier le code assembleur de la ligne.                  |
 +---------------+-----------------------------------------------------------+
-| Alt + BkSpace | Annuler la modification du code assembleur de la ligne.   |
+| Alt + BkSpace | Annule la modification du code assembleur de la ligne.    |
 +---------------+-----------------------------------------------------------+
 
 +---------------------------------------------------------------------------+
@@ -54,4 +54,4 @@ Liste de raccourcis utiles
 Références
 ==========
 
-.. _Lien 1: http://www.dc214.org/notes/rev_eng/Docs/OllyDbg%20Shortcuts.pdf
+http://www.dc214.org/notes/rev_eng/Docs/OllyDbg%20Shortcuts.pdf
