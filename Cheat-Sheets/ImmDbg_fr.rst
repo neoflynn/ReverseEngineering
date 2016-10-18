@@ -55,3 +55,4 @@ Références
 ==========
 
 http://www.dc214.org/notes/rev_eng/Docs/OllyDbg%20Shortcuts.pdf
+https://home.zcu.cz/~bodik/cheatsheets/reverse_engineering_cheat_sheet.pdf
