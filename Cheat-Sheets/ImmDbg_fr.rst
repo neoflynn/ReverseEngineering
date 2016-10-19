@@ -57,7 +57,7 @@ Capturer un clic sur un bouton :
 1. View
 2. Windows
 3. Clic droit sur le bouton concerné
-4. Message breackpoint on ClassProc
+4. Message breakpoint on ClassProc
 5. 202 WM_LBUTTONUP
 6. Break on all windows with same title
 7. Pause program : On message
