@@ -69,6 +69,13 @@ Capturer un clic sur un bouton :
 7. Pause program : On message
 8. Log WinProc arguments : Never
 
+Positionner un point d'arrêt sur une adresse en mémoire :
+---------------------------------------------------------
+
+1. View
+2. Memory
+3. Clic droit sur la page mémoire où se trouve l'adresse
+4. Set memory breakpoint...
 
 Références
 ==========
